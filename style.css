@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: lightblue;
+}
+div {
+    outline: 1px solid black;
+    height:250px;
+}
+h1{
+  font-family: "Comic Sans MS"
+  
+}
+h2{
+  font-family: "Comic Sans MS"
+}
